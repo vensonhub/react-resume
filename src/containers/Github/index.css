@@ -1,0 +1,21 @@
+.project{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  /*font-size: 1.3vw;*/
+  height: 100%;
+}
+.project-title{
+  font-size: 3em;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+  width: 100%;
+  text-align: center;
+}
+.project-content{
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 2em;
+}

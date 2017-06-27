@@ -1,0 +1,13 @@
+.item-title{
+  font-size: 2em;
+  color: dodgerblue;
+}
+.item-link{
+  color: dimgray;
+  font-size: 0.6em;
+  padding: 0.2em 0.3em;
+  border: 1px solid gray;
+  border-radius: 10px;
+  cursor:pointer;
+  margin-left: 0.5em;
+}
