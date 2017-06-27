@@ -38,7 +38,7 @@ module.exports = function(env){
       // publicPath: "/assets/"
       // chunkFilename: '[name].[chunkhash:5].chunk.js'
     },
-    devtool:"cheap-eval-source-map",
+    // devtool:"cheap-eval-source-map",
     module:{
       rules:[
         {
